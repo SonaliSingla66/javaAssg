@@ -16,7 +16,7 @@ static void CountingEven(int arr[], int arr_size){
                 even_count++;
             }
             System.out.println("number of even elements= "+even_count);
-    System.out.println("number of odd elements= "+odd_count);
+
         }
 }
 
